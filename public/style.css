@@ -1,0 +1,39 @@
+.textfieldstyle{
+    width: 220px;
+}
+
+.divInput{
+    padding: 12px 0 12px 0;
+}
+
+.nav-ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.nav-li{
+    margin-right: 100px;
+    color: white;
+}
+
+.nav_link{
+    text-decoration: none;
+    color: white;
+}
+
+.content{
+    padding: 20px;
+}
+
+.buttons{
+    margin: 0 0 15px 10px;
+}
+
+.space{
+    padding-left: 20px;
+}
+
+span{
+    font-weight: 500;
+}
